@@ -91,8 +91,12 @@
 ## סקר שוק
 
 ישנם משחקי מלחמה רבים כמו:
-CS GO:
+### CS GO:
+
+
 https://blog.counter-strike.net/
+
+
 משחק יריות בין טרוריסטים לשוטרים.
 
 <p align="center">
@@ -103,8 +107,12 @@ https://blog.counter-strike.net/
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
  </p>
 
-Call Of Duty:
+### Call Of Duty:
+
+
 https://www.callofduty.com/
+
+
 יחד עם עוד 150 שחקנים נוספים ברחבי העולם, קופץ לזירה עם גרפיקה מרשימה ביותר בה צריך להביס את היריב ביחידים ובקבוצות והחזק מכולם הוא המנצח.
 
 <p align="center">
@@ -115,8 +123,12 @@ https://www.callofduty.com/
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
  </p>
 
-Rainbow Six: Siege:
+### Rainbow Six: Siege:
+
+
 https://www.ubisoft.com/en-gb/game/rainbow-six/siege
+
+
 משחק יריות FPS שבו בוחרים שחקן מתוך נבחרת של 20 דמויות מיחידות עילית ברחבי העולם ולכל אחד מהם יכולות שונות, מה שהופך את המשחק למגוון ומאתגר. המשחק בזמנו (2015) הציב סטנדרט חדש לעולם משחקי היריות עם מצבי משחק חדשים כמו ניטרול פצצות, הצלת בני ערובה והוספת גאג'טים מיוחדים כמו רובוט שמסוגל לעבור מתחת למחסומים במשחק.
 
 <p align="center">
