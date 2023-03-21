@@ -101,7 +101,7 @@ https://blog.counter-strike.net/
 
 <p align="center">
  <img
-   src="/images/CS.png"
+   src="/images/CS.jpg"
    alt="Alt text"
    title="sketch"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
@@ -117,7 +117,7 @@ https://www.callofduty.com/
 
 <p align="center">
  <img
-   src="/images/COD.png"
+   src="/images/COD.jpg"
    alt="Alt text"
    title="sketch"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
@@ -133,7 +133,7 @@ https://www.ubisoft.com/en-gb/game/rainbow-six/siege
 
 <p align="center">
  <img
-   src="/images/RS.png"
+   src="/images/RS.jpg"
    alt="Alt text"
    title="sketch"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
