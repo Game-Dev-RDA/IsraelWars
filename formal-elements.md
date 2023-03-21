@@ -63,7 +63,7 @@
  <img
    src="/images/conflicts.png"
    alt="Alt text"
-   title="sketch"
+   title="conflicts"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
  </p>
 
@@ -79,6 +79,13 @@
 * עניין - מאחר וכל משימה היא שונה וכל שלב מדבר על מלחמה אחרת ומקרים היסטוריים שונים אז נוצר עניין במשחק. המשחק כל פעם משתנה ומתעדכן בהתאם להתקדמות השחקן.
 * הכוונה - השחקן יכול לקבל הכוונה במידה ועובר זמן רב של משימה ללא מענה.
 
+<p align="center">
+ <img
+   src="/images/boundries.jpg"
+   alt="boundries"
+   title="boundries"
+   style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
+ </p>
 
 ### 8. תוצאות
 
@@ -102,8 +109,8 @@ https://blog.counter-strike.net/
 <p align="center">
  <img
    src="/images/CS.jpg"
-   alt="Alt text"
-   title="sketch"
+   alt="CS"
+   title="CS"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
  </p>
 
@@ -118,8 +125,8 @@ https://www.callofduty.com/
 <p align="center">
  <img
    src="/images/COD.jpg"
-   alt="Alt text"
-   title="sketch"
+   alt="COD"
+   title="COD"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
  </p>
 
@@ -134,8 +141,8 @@ https://www.ubisoft.com/en-gb/game/rainbow-six/siege
 <p align="center">
  <img
    src="/images/RS.jpg"
-   alt="Alt text"
-   title="sketch"
+   alt="RS"
+   title="RS"
    style="display: inline-block; width: 500px; height: 450px; margin-left: auto; margin-right: auto;">
  </p>
 
