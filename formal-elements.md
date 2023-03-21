@@ -35,6 +35,13 @@
 * מתן מענה על שאלות ידע כללי.
 * צבירת נקודות על ביצוע משימה במלואה בזמן הנתון.
 
+<p align="center">
+ <img
+   src="/images/level-completed-menu.jpg"
+   alt="level-completed-menu"
+   title="level-completed-menu"
+   style="display: inline-block; width: 200px; height: 200px; margin-left: auto; margin-right: auto;">
+ </p>
 
 ### 3. תהליכים
 
