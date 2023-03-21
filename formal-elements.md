@@ -53,12 +53,27 @@
 * כל שלב מורכב ממספר משימות. לאחר ביצוע כלל המשימות השחקן ממשיך לשלב הבא העוסק במלחמה אחרת.
 * השחקן ילמד על התהליכים תוך כדי המשימות המנחות שהשחקן מקבל.
 
+<p align="center">
+ <img
+   src="/images/1_live_left.jpg"
+   alt="1_live_left"
+   title="1_live_left"
+   style="display: inline-block; width: 250px; height: 100px; margin-left: auto; margin-right: auto;">
+ </p>
+
 ### 4. חוקים
 
 * לא ניתן להמשיך לשחק בשלב הנוכחי לאחר 3 פסילות במשימה.
 * על כל תשובה נכונה או ביצוע משימה במלואה השחקן צובר נקודות. 
 * השחקן ילמד את חוקי המשחק באמצעות הוראות שינתנו לשחקן בתחילת המשחק.
 
+<p align="center">
+ <img
+   src="/images/war-cards.jpg"
+   alt="war-cards"
+   title="war-cards"
+   style="display: inline-block; width: 200px; height: 200px; margin-left: auto; margin-right: auto;">
+ </p>
 
 ### 5. משאבים
 
