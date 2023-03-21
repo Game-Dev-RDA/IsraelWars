@@ -21,6 +21,14 @@
 * המשחק מיועד לשחקן אחד.
 * המשחק הינו משחק תחרותי.
 
+<p align="center">
+ <img
+   src="/images/no-Under-16.png"
+   alt="no-Under-16"
+   title="no-Under-16"
+   style="display: inline-block; width: 200px; height: 200px; margin-left: auto; margin-right: auto;">
+ </p>
+
 ### 2. יעדים
 
 * ביצוע משימות שונות כמו להלחם/לאסוף מידע מודיעיני.
