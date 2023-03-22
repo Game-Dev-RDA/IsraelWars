@@ -20,7 +20,6 @@
    alt="Raising_the_Ink_Flag"
    title="Raising_the_Ink_Flag"
    style="display: inline-block; width: 300px; height: 300px; margin-left: auto; margin-right: auto;">
-
  <img
    src="/images/mission2.png"
    alt="Raising_the_Ink_Flag"
