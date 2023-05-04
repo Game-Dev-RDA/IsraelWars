@@ -28,4 +28,5 @@
  </p>
 
 ניתן לצפות ברכיבים הרישמיים [כאן](https://github.com/Game-Dev-RDA/IsraelWars/blob/main/formal-elements.md).
+
 ניתן לצפות ברכיבים הדרמטיים [כאן](https://github.com/Game-Dev-RDA/IsraelWars/blob/main/Dramatic%20Components.pdf).
